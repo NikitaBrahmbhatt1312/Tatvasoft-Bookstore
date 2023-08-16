@@ -11,7 +11,7 @@ import { createTheme } from "@mui/material";
 import { ToastContainer } from "react-toastify";
 
 function App() {
-    const name = "Dhara Solanki";
+    const name = "Nikita Brahmbhatt";
 
     const theme = createTheme({
         components: {
